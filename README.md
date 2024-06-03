@@ -1,18 +1,18 @@
 
 ![Frame 488](https://github.com/yussuffffff/yussuffffff/assets/141109899/895908f4-af10-442e-a03f-3d6d7d4943c0)
 
-• ♂ He/Him 📍 Living in Delhi, India \
-• I work as a design-centric-frontend-heavy software engineer. Mostly using Html, TailwindCSS, React.\
-• Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.\
-• Wanna catch-up? Schedule a meet with me at cal.com/yashsehgal\
-• General mails at mohammadyusuffff@gmail.com\
+• ♂ He/Him 📍 Living in Delhi, India \\
+• I work as a design-centric-frontend-heavy software engineer. Mostly using Html, TailwindCSS, React.\\
+• Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.\\
+• Wanna catch-up? Schedule a meet with me at cal.com/yashsehgal\\
+• General mails at mohammadyusuffff@gmail.com\\
 \
 __Work experience__\
 \
-UX/UI Designer & Frontend Developer, Audioh\
-UI Designer & Frontend Developer, [Coachcode](https://www.coachcode.net/)\
-UX Developer,[ Betterfast](betterfast,io)\
-Frontend developer intern, Water Lily Global\
+• UX/UI Designer & Frontend Developer, Audioh\
+• UI Designer & Frontend Developer, [Coachcode](https://www.coachcode.net/)\
+• UX Developer,[ Betterfast](betterfast,io)\
+• Frontend developer intern, Water Lily Global\
 \
 __Project and experiments__\
 
