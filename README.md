@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Frame 488](https://github.com/yussuffffff/yussuffffff/assets/141109899/895908f4-af10-442e-a03f-3d6d7d4943c0)
 
 ♂ He/Him 📍 Living in Indore, India
 I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
