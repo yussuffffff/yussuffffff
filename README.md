@@ -1,11 +1,11 @@
 
 ![Frame 488](https://github.com/yussuffffff/yussuffffff/assets/141109899/895908f4-af10-442e-a03f-3d6d7d4943c0)
 
-• ♂ He/Him 📍 Living in Delhi, India \\
-• I work as a design-centric-frontend-heavy software engineer. Mostly using Html, TailwindCSS, React.\\
-• Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.\\
-• Wanna catch-up? Schedule a meet with me at cal.com/yashsehgal\\
-• General mails at mohammadyusuffff@gmail.com\\
+• ♂ He/Him 📍 Living in Delhi, India \
+• I work as a design-centric-frontend-heavy software engineer. Mostly using Html, TailwindCSS, React.\
+• Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.\
+• Wanna catch-up? Schedule a meet with me at cal.com/yashsehgal \
+• General mails at mohammadyusuffff@gmail.com \
 \
 __Work experience__\
 \
@@ -14,7 +14,7 @@ __Work experience__\
 • UX Developer,[ Betterfast](betterfast,io)\
 • Frontend developer intern, Water Lily Global\
 \
-__Project and experiments__\
+__Project and experiments__ \
 
 [Cerebria](https://www.cerebria.tech/)Website Redesign - Worked on this project for a SAAS based leads generating platform.
 Communal and Craftbook - Working on a community management platform idea. Building the design system/UI Kit for frontend, called Craftbook.
