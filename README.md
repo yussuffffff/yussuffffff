@@ -4,12 +4,12 @@
 • ♂ He/Him 📍 Living in Delhi, India \
 • I work as a design-centric-frontend-heavy software engineer. Mostly using Html, TailwindCSS, React.\
 • Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.\
-• Wanna catch-up? Schedule a meet with me at cal.com/yashsehgal \
+• Wanna catch-up? Schedule a meet with me at [cal.com/yusuf](https://calendly.com/mohammadyusuffff/30min) \
 • General mails at mohammadyusuffff@gmail.com \
 \
 __Work experience__\
 \
-• UX/UI Designer & Frontend Developer, Audioh\
+• UX/UI Designer & Frontend Developer, Audioh (developed the whole flow of the application)\
 • UI Designer & Frontend Developer, [Coachcode](https://www.coachcode.net/)\
 • UX Developer,[ Betterfast](betterfast,io)\
 • Frontend developer intern, Water Lily Global\
