@@ -16,12 +16,12 @@ __Work experience__\
 \
 __Project and experiments__ \
 
-[Cerebria](https://www.cerebria.tech/) Website Redesign - Worked on this project for a SAAS based leads generating platform.
-[coaccode](https://www.coachcode.net/) Landing page redesign and development for coachcode a platform built for fitness coahes.
-[Railway Ease](https://railway-ease.vercel.app/) An all in one platform for the customers that tackles the day to day problems faced in the railways.
-[News2Day](https://www.behance.net/gallery/155823535/News2Day-News-application) Redesigned an online news platform for Siddi Vinayaka Creative Labs a comapny based in Hyderabad, India
-[Breast cancer Detector](https://github.com/yussuffffff/Breast_Cancer) developed a breast cancer detector by testing out various machien learning algorithms like SVM, decision tree, Random Forest
-
-Socials
-
-Twitter/yashsehgaldev • LinkedIn/sehgalyash • Instagram/sehgalyash_ • Website/yashsehgal.com • Peerlist/yashsehgaldev • Meetings at cal.com/yashsehgal
+• [Cerebria](https://www.cerebria.tech/) Website Redesign - Worked on this project for a SAAS based leads generating platform.\
+• [coaccode](https://www.coachcode.net/) Landing page redesign and development for coachcode a platform built for fitness coahes.\
+• [Railway Ease](https://railway-ease.vercel.app/) An all in one platform for the customers that tackles the day to day problems faced in the railways.\
+• [News2Day](https://www.behance.net/gallery/155823535/News2Day-News-application) Redesigned an online news platform for Siddi Vinayaka Creative Labs a comapny based in Hyderabad, India.\
+• [Breast cancer Detector](https://github.com/yussuffffff/Breast_Cancer) developed a breast cancer detector by testing out various machien learning algorithms like SVM, decision tree, Random Forest.\
+\
+__Socials__
+\
+[Twitter/24kyusuf](https://twitter.com/24kyusuf) • [LinkedIn/Myusuf] (https://www.linkedin.com/in/m-yusuf-88155921a/)  • Meetings at cal.com/yashsehgal
