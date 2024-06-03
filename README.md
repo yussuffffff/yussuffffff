@@ -24,4 +24,4 @@ __Project and experiments__ \
 \
 __Socials__
 \
-[Twitter/24kyusuf](https://twitter.com/24kyusuf) • [LinkedIn/Myusuf](www.linkedin.com/in/m-yusuf-88155921a)  • Meetings at cal.com/yashsehgal
+[Twitter/24kyusuf](https://twitter.com/24kyusuf) • [LinkedIn/Myusuf](www.linkedin.com/in/m-yusuf-88155921a)  • Meetings at[ cal.com/yusuf](https://calendly.com/mohammadyusuffff/30min)
