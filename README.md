@@ -11,7 +11,7 @@ __Work experience__\
 \
 • UX/UI Designer & Frontend Developer, Audioh (developed the whole flow of the application)\
 • UI Designer & Frontend Developer, [Coachcode](https://www.coachcode.net/)\
-• UX Developer,[ Betterfast](betterfast,io)\
+• UX Developer,[ Betterfast](betterfast.io)\
 • Frontend developer intern, Water Lily Global\
 \
 __Project and experiments__ \
