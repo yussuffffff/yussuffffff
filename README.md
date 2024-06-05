@@ -21,7 +21,7 @@ __Project and experiments__ \
 • [Railway Ease](https://railway-ease.vercel.app/) An all in one platform for the customers that tackles the day to day problems faced in the railways.\
 • [News2Day](https://www.behance.net/gallery/155823535/News2Day-News-application) Redesigned an online news platform for Siddi Vinayaka Creative Labs a comapny based in Hyderabad, India.\
 • [Breast cancer Detector](https://github.com/yussuffffff/Breast_Cancer) developed a breast cancer detector by testing out various machien learning algorithms like SVM, decision tree, Random Forest.\
-• Designed wireframes and generated the flow for [Neonify.ai](https://neonify.ai/) a compamy that helps to scale content using AI/ML.\
+• Designed wireframes and generated the flow for [Neonify.ai](https://neonify.ai/) a company that helps to scale content using AI/ML.\
 \
 __Socials__
 \
