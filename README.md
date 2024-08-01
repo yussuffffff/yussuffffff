@@ -9,6 +9,7 @@
 \
 __Work experience__\
 \
+• Project Intern, [Teliolabs Communications inc](https://teliolabs.com/)\
 • UX/UI Designer & Frontend Developer, Audioh (developed the whole flow of the application)\
 • UI Designer & Frontend Developer, [Coachcode](https://www.coachcode.net/)\
 • UX Developer,[ Betterfast](https://www.betterfast.io/)\
