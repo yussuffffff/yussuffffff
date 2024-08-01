@@ -15,7 +15,7 @@ __Work experience__\
 • UX Developer,[ Betterfast](https://www.betterfast.io/)\
 • Frontend developer intern, Water Lily Global\
 \
-__Project and experiments__ \
+__Project and experiments__ 
 
 • [Cerebria](https://www.cerebria.tech/) Website Redesign - Worked on this project for a SAAS based leads generating platform.\
 • [coachcode](https://www.coachcode.net/) Landing page redesign and development for coachcode a platform built for fitness coahes.\
